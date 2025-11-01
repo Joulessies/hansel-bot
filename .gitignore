@@ -26,6 +26,11 @@ wheels/
 .installed.cfg
 *.egg
 
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
 # IDE
 .vscode/
 .idea/
@@ -37,3 +42,5 @@ wheels/
 .DS_Store
 Thumbs.db
 
+# Logs
+*.log
